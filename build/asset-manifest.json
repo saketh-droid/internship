@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/internship/static/css/main.5e141034.css",
+    "main.js": "/internship/static/js/main.8609b5e8.js",
+    "static/js/488.ec552a32.chunk.js": "/internship/static/js/488.ec552a32.chunk.js",
+    "static/media/person2.svg": "/internship/static/media/person2.3bcb450e702cc45e5877ed851e49dccc.svg",
+    "static/media/person.svg": "/internship/static/media/person.89b6440e2fe559bf1da3e083e6f9e8dd.svg",
+    "static/media/katty_cox.svg": "/internship/static/media/katty_cox.ff67745836d352530010d95ad023a64c.svg",
+    "static/media/settings.svg": "/internship/static/media/settings.65774849beab0cb3ef3389085f987f49.svg",
+    "static/media/notification.svg": "/internship/static/media/notification.674b2a1d7bafea28ea5ebb62b7ac7e50.svg",
+    "static/media/reports.svg": "/internship/static/media/reports.9e58ad64c93413a262adcd3ee7ac0f30.svg",
+    "static/media/dashboard.svg": "/internship/static/media/dashboard.1903e34c03fbbfd09c9bdfa76e605982.svg",
+    "static/media/add.svg": "/internship/static/media/add.d023a2b3414abc0123a39e7dd9b05bc7.svg",
+    "index.html": "/internship/index.html",
+    "static/media/search.svg": "/internship/static/media/search.7aa50ac880090006932dca1e3d2802cd.svg",
+    "static/media/top_setting.svg": "/internship/static/media/top_setting.bf1123852064cdc1e4ce3bf48fc1c5d8.svg",
+    "static/media/help.svg": "/internship/static/media/help.04fedd51be779b8db1d0bdeced990619.svg",
+    "static/media/help_search.svg": "/internship/static/media/help_search.875c04646f4efd3754c4b3069c9bac40.svg",
+    "static/media/chapter.svg": "/internship/static/media/chapter.877d49700ae291131f760602aaa52b21.svg",
+    "static/media/students.svg": "/internship/static/media/students.8ec32f26e69063044a11e077d583fca2.svg",
+    "static/media/message.svg": "/internship/static/media/message.220de7d6f07fb1ca563de9c0e6943ed4.svg",
+    "static/media/down.svg": "/internship/static/media/down.56d6af2ad11c36a452c974bcf72a9c8d.svg",
+    "static/media/False.svg": "/internship/static/media/False.6fe226a2f004c335c3cfdf8818004b7b.svg",
+    "static/media/True.svg": "/internship/static/media/True.ee77da278a3fce3cef908dc8ee3ce862.svg",
+    "static/media/Ellipse.svg": "/internship/static/media/Ellipse.08f73630f3ed01d96c88455fb852a70f.svg",
+    "main.5e141034.css.map": "/internship/static/css/main.5e141034.css.map",
+    "main.8609b5e8.js.map": "/internship/static/js/main.8609b5e8.js.map",
+    "488.ec552a32.chunk.js.map": "/internship/static/js/488.ec552a32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e141034.css",
+    "static/js/main.8609b5e8.js"
+  ]
+}
