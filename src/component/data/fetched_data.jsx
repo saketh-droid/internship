@@ -25,7 +25,7 @@ const FetchedData = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('https://saketh-droid.github.io/server'); 
+        const response = await fetch('https://saketh-droid.github.io/server/'); 
         const data = await response.json();
 
         const formattedData = data.map((enrollment) => {
